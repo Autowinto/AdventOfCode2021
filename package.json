@@ -6,9 +6,11 @@
   "author": "Magnus Christian Larsen <macl@itconfidence.dk>",
   "license": "MIT",
   "scripts": {
-    "day1": "ts-node src/dayOne.ts"
+    "day1": "ts-node src/dayOne.ts",
+    "day2": "ts-node src/dayTwo.ts"
   },
   "devDependencies": {
+    "@types/node": "^16.11.11",
     "ts-node": "^10.4.0",
     "typescript": "^4.5.2"
   }
